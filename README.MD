@@ -18,3 +18,5 @@ Git and GitHub are used to track changes, preserve commit history and support co
 
 ## Note
 These are demonstration validation scripts. They do not connect to a live attendance application.
+
+Remote update: README collaboration note added through GitHub.
